@@ -1,0 +1,41 @@
+#title{
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+#N_of_objects{
+    font-size: 18px;
+}
+
+#status{
+    font-size: 18px;
+}
+
+#footer{
+font-size: 18px;
+background-color: lightslategrey;
+color: white;
+text-align: center;
+bottom: 0;
+position: fixed;
+width: 100%;
+}
+
+body{
+    background-size: cover;
+}
+
+#sub-title{
+    font-size: 15px;
+    color: black;
+}
+
+canvas{
+    border-radius: 8px;
+    box-shadow: 8px 8px 8px lightslategrey;
+}
